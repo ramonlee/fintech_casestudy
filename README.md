@@ -113,10 +113,11 @@ https://3commas.io/blog
 ### Technology Stacks that powers 3Commas
 <u>Application & Data </u><br/>
 ![Application and Data](img/s20565103232022.png)
-<!-- * What specific financial problem is the company or project trying to solve?
 
 <br/>Utilities</br>
 ![Utilities](img/s21014303232022.png)
+
+<!-- * What specific financial problem is the company or project trying to solve?
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
