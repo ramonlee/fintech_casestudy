@@ -1,6 +1,6 @@
 # Crypto Trading Made Easy
 
-## About our company 3Commas
+## About our company 3Commas ![logo](img/s21064703232022.png)
 
 ### Our goal is to make crypto trading easy with the 3Commas platform
 The Founder & CEO of 3Commas Yuriy Sorokin, started to build the 3Commas platform in 2017 for their inner circle.
