@@ -115,6 +115,9 @@ https://3commas.io/blog
 ![Application and Data](img/s20565103232022.png)
 <!-- * What specific financial problem is the company or project trying to solve?
 
+<br/>Utilities</br>
+![Utilities](img/s21014303232022.png)
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
