@@ -9,7 +9,11 @@ This has inspired them to build a reliable platform that can help friends within
 that might result in losses.
 Once the power of 3Commas was realized and propel this to open further to the world of crypto outside their inner circle.
 
-Sine launch in 2017, 3Commas has grown and developed its product extensively from listening to and implementing user feedback.
+Sine launch in 2017, 3Commas cryptocurrency management platform provides access to a number of tools designed to improve overall trading efficiency and effectiveness.
+The team behind the project aim to help minimize investors' risks, and limit their exposure to losses, while also maximizing their profits.
+
+Central to the service provided is the 3Commas trading bot which operates as a web-based service and works in conjunction with a number of devices and exchanges.
+The trading bots are pieces of computer software that continuously execute trades based on pre-determined parameters set by the trader.
 
 3Commas.io is thrilled to announce its successful raise of $3M in a Series A financing round led by Alameda Research.
 3Commas is a leading non-custodial, Order Management System (OMS) and crypto-asset management platform
@@ -65,13 +69,51 @@ Integrate signals into your bot and automatically copy the trades of professiona
 | have your credentials and     | market never sleeps, and      | and when to let them run.      |
 | cannot initiate withdrawals.   | neither do our bots.           |     
 
-* What specific financial problem is the company or project trying to solve?
+### Level up your trading game with advanced trading tools that work on 18 of the biggest exchanges.
+Winning traders is the goal, and 3Commas is your all-in-one tool to achieve it. Integrating with
+most any exchange, 3Commas provides you the functions you wish you had, without any risk or need to move your assets.
+
+### Manage all your exchange accounts from one interface
+Automated trading tools are supported on 18 major cryptocurrency exchanges.
+
+### Trade automation opens up new ways to make profits
+Unlike traditional stock markets, cryptocurrency markets operate 24 hours per day, 7 days per week.
+This is a point of fear of manual traders, but not for 3Commas users. Your bots aren't limited
+to Mon-Fri normal business hours to open deals. You can set up bots to operate under almost any
+contingency, whether it's a flash crash or the market shooting to the moon. Sleep easy at night
+and let bots do the work.
+
+### Why do traders choose 3Commas compare to their competitors?
+1. User-friendly interface;
+2. Variety of trading bots and instruments;
+3. Opportunity to feel financial freedom;
+4. Great experience and cool service and customer service;
+5. Helpful guides and abundance of training materials;
+
+There are currently over 33,000 traders using the service, and the platform handles over $10m of daily trading volume.
+https://blockonomi.com/3commas-review/ 
+
+### How Does 3Commas Stand Out? https://toptradereviews.com/3commas-review/
+3Commas isn’t the only trading bot service available to cryptocurrency traders, but it stands out for being relatively affordable and relatively easy to use. 3Commas is fairly straightforward to get started with even for those who haven’t used trading bots in the past. There are several automated strategies that you can turn to, and the Smart Trade feature is somewhat self-explanatory. It also helps that 3Commas works with such a broad range of popular cryptocurrency exchanges.
+
+That said, 3Commas doesn’t enable you to truly customize the trading bots unless you have a linked TradingView account. While you can use TradingView for free, most of the platform’s best features for building custom signals require a paid plan – which starts at $14.95. That can raise the cost of using 3Commas, although it’s still not overly expensive given how powerful the software is. 
+
+### Should You Try 3Commas?
+3Commas is an excellent cryptocurrency trading bot. It offers everything a newbie or experienced trader needs, except for arbitrage trading.
+
+Even if you wish only to manage your portfolio or do automatic rebalancing, 3Commas is a great solution.
+
+If you want to trade manually from one interface with boosted features, you can do it with 3Commas’ Smart Trade dashboard.
+
+And finally, if you wish for a hands-off approach and fully automated trading, you can create your own bots: simple or composite. Or you can copy configurations of other people’s bots, buy signals from external vendors or completely copy trade best traders from 3Commas’ marketplace, you can do it all from this single interface.
+
+<!-- * What specific financial problem is the company or project trying to solve?
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.) -->
 
 ## Landscape:
 
