@@ -98,7 +98,7 @@ https://blockonomi.com/3commas-review/
 
 That said, 3Commas doesn’t enable you to truly customize the trading bots unless you have a linked TradingView account. While you can use TradingView for free, most of the platform’s best features for building custom signals require a paid plan – which starts at $14.95. That can raise the cost of using 3Commas, although it’s still not overly expensive given how powerful the software is. 
 
-### Should You Try 3Commas?
+### Should You Try 3Commas?https://3commas.io/blog
 3Commas is an excellent cryptocurrency trading bot. It offers everything a newbie or experienced trader needs, except for arbitrage trading.
 
 Even if you wish only to manage your portfolio or do automatic rebalancing, 3Commas is a great solution.
@@ -107,6 +107,11 @@ If you want to trade manually from one interface with boosted features, you can 
 
 And finally, if you wish for a hands-off approach and fully automated trading, you can create your own bots: simple or composite. Or you can copy configurations of other people’s bots, buy signals from external vendors or completely copy trade best traders from 3Commas’ marketplace, you can do it all from this single interface.
 
+### Building a Crypto Trading Bot - How to Guide
+https://3commas.io/blog
+
+### Technology Stacks that powers 3Commas
+![Application and Data](img/s20565103232022.png)
 <!-- * What specific financial problem is the company or project trying to solve?
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
