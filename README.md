@@ -94,9 +94,10 @@ There are currently over 33,000 traders using the service, and the platform hand
 https://blockonomi.com/3commas-review/ 
 
 ### How Does 3Commas Stand Out? https://toptradereviews.com/3commas-review/
-3Commas isn’t the only trading bot service available to cryptocurrency traders, but it stands out for being relatively affordable and relatively easy to use. 3Commas is fairly straightforward to get started with even for those who haven’t used trading bots in the past. There are several automated strategies that you can turn to, and the Smart Trade feature is somewhat self-explanatory. It also helps that 3Commas works with such a broad range of popular cryptocurrency exchanges.
+3Commas is one of the most popular web-based crypto trading bot. As of now, there are currently 220,000 registered users and 26 supported exchanges. The platform’s main priority is user satisfaction, which is why the developers continue to add new innovative features to the bot. 3Commas users are able to track multiple orders on various exchanges and develop informed trading strategies. Recently, 3Commas has collaborated with Binance. This partnership ensures convenient trading conditions through Binance’s distinguished asset management and security infrastructure. Under the broker program, you can create a free Binance account and utilize tools from the 3commas platform. 3Commas now has a Trading Academy – this excellent compilation of resources gives users the tools they need for success. When you purchase the 3Commas Pro version, you will also receive access to a free trading course.  Since our last update about top crypto bots, 3Commas has reduced the price of all of its subscription levels.
 
-That said, 3Commas doesn’t enable you to truly customize the trading bots unless you have a linked TradingView account. While you can use TradingView for free, most of the platform’s best features for building custom signals require a paid plan – which starts at $14.95. That can raise the cost of using 3Commas, although it’s still not overly expensive given how powerful the software is. 
+<br/>Pros and Cons<br/>
+![prosandcons](img/s21151903232022.png)
 
 ### Should You Try 3Commas?https://3commas.io/blog
 3Commas is an excellent cryptocurrency trading bot. It offers everything a newbie or experienced trader needs, except for arbitrage trading.
@@ -119,6 +120,8 @@ https://3commas.io/blog
 
 <br/>DevOps</br>
 ![DevOps](img/s21041803232022.png)
+
+
 <!-- * What specific financial problem is the company or project trying to solve?
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
@@ -129,11 +132,14 @@ https://3commas.io/blog
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+
+
+
+<!-- * What domain of the financial industry is the company in?
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-* What are the other major companies in this domain?
+* What are the other major companies in this domain? -->
 
 ## Results
 
