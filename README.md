@@ -117,6 +117,8 @@ https://3commas.io/blog
 <br/>Utilities</br>
 ![Utilities](img/s21014303232022.png)
 
+<br/>DevOps</br>
+![DevOps](img/s21041803232022.png)
 <!-- * What specific financial problem is the company or project trying to solve?
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
