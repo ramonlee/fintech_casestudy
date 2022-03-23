@@ -111,6 +111,7 @@ And finally, if you wish for a hands-off approach and fully automated trading, y
 https://3commas.io/blog
 
 ### Technology Stacks that powers 3Commas
+<u>Application & Data </u>
 ![Application and Data](img/s20565103232022.png)
 <!-- * What specific financial problem is the company or project trying to solve?
 
